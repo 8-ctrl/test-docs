@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/permission-framework/policies/creating-a-policy",
+  "id": "documentation/permission-framework/policies/creating-a-policy",
+  "title": "Creating a Policy",
+  "description": "Creating policies is a pivotal step in configuring access control within the Zelthy platform. Here's a step-by-step guide on how to create a new policy using the App Panel interface:",
+  "source": "@site/docs/documentation/permission-framework/policies/creating-a-policy.mdx",
+  "sourceDirName": "documentation/permission-framework/policies",
+  "slug": "/documentation/permission-framework/policies/creating-a-policy",
+  "permalink": "/docs/docs/documentation/permission-framework/policies/creating-a-policy",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/policies/creating-a-policy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Creating a Policy"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Viewing Policies",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/viewing-policies"
+  },
+  "next": {
+    "title": "Policy Config JSON",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/policy-config-json"
+  }
+}

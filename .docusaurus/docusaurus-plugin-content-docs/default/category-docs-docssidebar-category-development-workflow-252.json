@@ -1,0 +1,15 @@
+{
+  "title": "Development Workflow",
+  "slug": "/category/development-workflow",
+  "permalink": "/docs/category/development-workflow",
+  "navigation": {
+    "previous": {
+      "title": "Installing a Package",
+      "permalink": "/docs/documentation/packages/installing-a-package"
+    },
+    "next": {
+      "title": "Modules",
+      "permalink": "/docs/documentation/modules/overview"
+    }
+  }
+}

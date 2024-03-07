@@ -1,0 +1,17 @@
+{
+  "unversionedId": "documentation/permission-framework/policies/archiving-a-policy",
+  "id": "documentation/permission-framework/policies/archiving-a-policy",
+  "title": "Deactivating a Policy",
+  "description": "Deactivating a policy is an essential task for maintaining a well-organized access control environment. Here's a step-by-step guide on how to deactivate a policy using the App Panel interface:",
+  "source": "@site/docs/documentation/permission-framework/policies/archiving-a-policy.mdx",
+  "sourceDirName": "documentation/permission-framework/policies",
+  "slug": "/documentation/permission-framework/policies/archiving-a-policy",
+  "permalink": "/docs/docs/documentation/permission-framework/policies/archiving-a-policy",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/policies/archiving-a-policy.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Deactivating a Policy"
+  }
+}

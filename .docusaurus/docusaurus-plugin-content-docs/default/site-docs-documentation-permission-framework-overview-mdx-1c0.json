@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/permission-framework/overview",
+  "id": "documentation/permission-framework/overview",
+  "title": "Permission Framework",
+  "description": "The Permission Framework within the Zelthy platform serves as a robust mechanism for managing and controlling user access to various resources such as views, databases, and more. By employing this framework, you can ensure the secure and controlled distribution of permissions throughout your healthcare enterprise applications.",
+  "source": "@site/docs/documentation/permission-framework/overview.mdx",
+  "sourceDirName": "documentation/permission-framework",
+  "slug": "/documentation/permission-framework/overview",
+  "permalink": "/docs/docs/documentation/permission-framework/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Updating User Roles",
+    "permalink": "/docs/docs/documentation/user-management/updating-user-roles"
+  },
+  "next": {
+    "title": "Policies",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/overview"
+  }
+}

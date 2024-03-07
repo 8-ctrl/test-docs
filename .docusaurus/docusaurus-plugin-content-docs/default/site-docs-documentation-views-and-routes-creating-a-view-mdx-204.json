@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/views-and-routes/creating-a-view",
+  "id": "documentation/views-and-routes/creating-a-view",
+  "title": "Creating a View",
+  "description": "In Zelthy, creating views is akin to the process you'd follow in Django, the popular Python web framework. Views define how your application responds to HTTP requests and are fundamental to handling user interactions and displaying content. Whether you're creating an API view or a template view, the basic principles remain the same.",
+  "source": "@site/docs/documentation/views-and-routes/creating-a-view.mdx",
+  "sourceDirName": "documentation/views-and-routes",
+  "slug": "/documentation/views-and-routes/creating-a-view",
+  "permalink": "/docs/docs/documentation/views-and-routes/creating-a-view",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/views-and-routes/creating-a-view.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Creating a View"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Views and Routes",
+    "permalink": "/docs/docs/documentation/views-and-routes/overview"
+  },
+  "next": {
+    "title": "Assigning Route to a View",
+    "permalink": "/docs/docs/documentation/views-and-routes/assigning-route-to-a-view"
+  }
+}

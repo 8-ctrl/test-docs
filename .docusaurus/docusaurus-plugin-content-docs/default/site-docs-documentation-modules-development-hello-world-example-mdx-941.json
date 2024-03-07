@@ -1,0 +1,15 @@
+{
+  "unversionedId": "documentation/modules/development/hello-world-example",
+  "id": "documentation/modules/development/hello-world-example",
+  "title": "hello-world-example",
+  "description": "",
+  "source": "@site/docs/documentation/modules/development/hello-world-example.mdx",
+  "sourceDirName": "documentation/modules/development",
+  "slug": "/documentation/modules/development/hello-world-example",
+  "permalink": "/docs/docs/documentation/modules/development/hello-world-example",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/modules/development/hello-world-example.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

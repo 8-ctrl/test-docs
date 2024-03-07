@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/spinning-up-an-app/switching-to-app-view",
+  "id": "documentation/spinning-up-an-app/switching-to-app-view",
+  "title": "Switching to the App View",
+  "description": "After creating or locating your healthcare app within App Panel, you can switch to the app's detail view to access a wide range of functionalities specific to your app. Here's how you can do it:",
+  "source": "@site/docs/documentation/spinning-up-an-app/switching-to-app-view.mdx",
+  "sourceDirName": "documentation/spinning-up-an-app",
+  "slug": "/documentation/spinning-up-an-app/switching-to-app-view",
+  "permalink": "/docs/docs/documentation/spinning-up-an-app/switching-to-app-view",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/spinning-up-an-app/switching-to-app-view.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Switching to the App View"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Initializing App Codebase",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/intializing-app-codebase"
+  },
+  "next": {
+    "title": "Updating App Settings",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/updating-app-settings"
+  }
+}

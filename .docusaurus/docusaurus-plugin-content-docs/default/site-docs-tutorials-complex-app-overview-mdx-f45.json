@@ -1,0 +1,15 @@
+{
+  "unversionedId": "tutorials/complex-app/overview",
+  "id": "tutorials/complex-app/overview",
+  "title": "How to create a complex app",
+  "description": "",
+  "source": "@site/docs/tutorials/complex-app/overview.mdx",
+  "sourceDirName": "tutorials/complex-app",
+  "slug": "/tutorials/complex-app/overview",
+  "permalink": "/docs/docs/tutorials/complex-app/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/tutorials/complex-app/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

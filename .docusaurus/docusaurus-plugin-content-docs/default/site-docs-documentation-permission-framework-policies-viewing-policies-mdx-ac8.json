@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/permission-framework/policies/viewing-policies",
+  "id": "documentation/permission-framework/policies/viewing-policies",
+  "title": "Viewing Policies",
+  "description": "Understanding and managing policies is crucial for maintaining a robust access control system within the Zelthy platform. Here's how you can easily view policies using the App Panel interface:",
+  "source": "@site/docs/documentation/permission-framework/policies/viewing-policies.mdx",
+  "sourceDirName": "documentation/permission-framework/policies",
+  "slug": "/documentation/permission-framework/policies/viewing-policies",
+  "permalink": "/docs/docs/documentation/permission-framework/policies/viewing-policies",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/policies/viewing-policies.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Viewing Policies"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Policies",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/overview"
+  },
+  "next": {
+    "title": "Creating a Policy",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/creating-a-policy"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Getting Started",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Platform Architecture",
+      "permalink": "/docs/documentation/platform-architecture"
+    },
+    "next": {
+      "title": "Manual",
+      "permalink": "/docs/documentation/getting-started/installing-zelthy/manual"
+    }
+  }
+}

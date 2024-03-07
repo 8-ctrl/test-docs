@@ -1,0 +1,15 @@
+{
+  "unversionedId": "documentation/development-of-app/overview",
+  "id": "documentation/development-of-app/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/documentation/development-of-app/overview.mdx",
+  "sourceDirName": "documentation/development-of-app",
+  "slug": "/documentation/development-of-app/overview",
+  "permalink": "/docs/docs/documentation/development-of-app/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/development-of-app/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/async-tasks/creating-an-async-task",
+  "id": "documentation/async-tasks/creating-an-async-task",
+  "title": "Creating an Async Task",
+  "description": "In Zelthy, asynchronous tasks are defined as functions within a tasks.py file located inside any module folder of your application. These tasks leverage the @shared_task function decorator to indicate that they should be executed asynchronously.",
+  "source": "@site/docs/documentation/async-tasks/creating-an-async-task.mdx",
+  "sourceDirName": "documentation/async-tasks",
+  "slug": "/documentation/async-tasks/creating-an-async-task",
+  "permalink": "/docs/docs/documentation/async-tasks/creating-an-async-task",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/async-tasks/creating-an-async-task.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Creating an Async Task"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Async Tasks",
+    "permalink": "/docs/docs/documentation/async-tasks/overview"
+  },
+  "next": {
+    "title": "Syncing and Viewing Async Task",
+    "permalink": "/docs/docs/documentation/async-tasks/syncing-and-viewing-async-tasks"
+  }
+}

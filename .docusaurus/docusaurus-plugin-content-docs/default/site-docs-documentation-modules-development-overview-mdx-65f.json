@@ -1,0 +1,15 @@
+{
+  "unversionedId": "documentation/modules/development/overview",
+  "id": "documentation/modules/development/overview",
+  "title": "overview",
+  "description": "",
+  "source": "@site/docs/documentation/modules/development/overview.mdx",
+  "sourceDirName": "documentation/modules/development",
+  "slug": "/documentation/modules/development/overview",
+  "permalink": "/docs/docs/documentation/modules/development/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/modules/development/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

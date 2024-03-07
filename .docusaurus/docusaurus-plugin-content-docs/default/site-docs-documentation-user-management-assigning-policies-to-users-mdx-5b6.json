@@ -1,0 +1,17 @@
+{
+  "unversionedId": "documentation/user-management/assigning-policies-to-users",
+  "id": "documentation/user-management/assigning-policies-to-users",
+  "title": "Assigning Policies to Users",
+  "description": "Granting specific permissions to users through policies is a valuable feature in the User Management system of App Panel. This capability enables administrators and developers to provide customized access and permissions at a user level, allowing for precise control based on individual needs. Here's a step-by-step guide on how to assign policies to users:",
+  "source": "@site/docs/documentation/user-management/assigning-policies-to-users.mdx",
+  "sourceDirName": "documentation/user-management",
+  "slug": "/documentation/user-management/assigning-policies-to-users",
+  "permalink": "/docs/docs/documentation/user-management/assigning-policies-to-users",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-management/assigning-policies-to-users.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Assigning Policies to Users"
+  }
+}

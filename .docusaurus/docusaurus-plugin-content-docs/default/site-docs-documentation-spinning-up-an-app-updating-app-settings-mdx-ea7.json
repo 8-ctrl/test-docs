@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/spinning-up-an-app/updating-app-settings",
+  "id": "documentation/spinning-up-an-app/updating-app-settings",
+  "title": "Updating App Settings",
+  "description": "In the app view within the App Panel, you have the ability to update and configure various settings for your healthcare app. Here's how you can update the app settings:",
+  "source": "@site/docs/documentation/spinning-up-an-app/updating-app-settings.mdx",
+  "sourceDirName": "documentation/spinning-up-an-app",
+  "slug": "/documentation/spinning-up-an-app/updating-app-settings",
+  "permalink": "/docs/docs/documentation/spinning-up-an-app/updating-app-settings",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/spinning-up-an-app/updating-app-settings.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Updating App Settings"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Switching to the App View",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/switching-to-app-view"
+  },
+  "next": {
+    "title": "Updating App Theme",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/updating-app-theme"
+  }
+}

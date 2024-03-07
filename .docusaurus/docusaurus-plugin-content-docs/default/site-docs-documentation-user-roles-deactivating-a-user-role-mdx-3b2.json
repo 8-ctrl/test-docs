@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/user-roles/deactivating-a-user-role",
+  "id": "documentation/user-roles/deactivating-a-user-role",
+  "title": "Deactivating a User Role",
+  "description": "Deactivating a user role in the Zelthy platform helps you manage user access and ensure compliance with changing organizational requirements. Follow these steps to deactivate a user role:",
+  "source": "@site/docs/documentation/user-roles/deactivating-a-user-role.mdx",
+  "sourceDirName": "documentation/user-roles",
+  "slug": "/documentation/user-roles/deactivating-a-user-role",
+  "permalink": "/docs/docs/documentation/user-roles/deactivating-a-user-role",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-roles/deactivating-a-user-role.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Deactivating a User Role"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Assigning Policies to User Roles",
+    "permalink": "/docs/docs/documentation/user-roles/assigning-policies-to-user-roles"
+  },
+  "next": {
+    "title": "Reserved User Roles",
+    "permalink": "/docs/docs/documentation/user-roles/reserved-user-roles"
+  }
+}

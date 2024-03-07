@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/permission-framework/policies/overview",
+  "id": "documentation/permission-framework/policies/overview",
+  "title": "Policies",
+  "description": "Policies are the cornerstone of access control within the Zelthy platform, governing how permissions are assigned and managed. Understanding policies is essential for orchestrating user access to different resources.",
+  "source": "@site/docs/documentation/permission-framework/policies/overview.mdx",
+  "sourceDirName": "documentation/permission-framework/policies",
+  "slug": "/documentation/permission-framework/policies/overview",
+  "permalink": "/docs/docs/documentation/permission-framework/policies/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/policies/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Permission Framework",
+    "permalink": "/docs/docs/documentation/permission-framework/overview"
+  },
+  "next": {
+    "title": "Viewing Policies",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/viewing-policies"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/ddms/overview",
+  "id": "documentation/ddms/overview",
+  "title": "Models",
+  "description": "Zelthy Data Model is a powerful feature designed to meet the specific needs of multi-tenant systems. This innovative concept allows you to define different data models for each tenant within the same application, making Zelthy a versatile platform for building multi-tenant applications.",
+  "source": "@site/docs/documentation/ddms/overview.mdx",
+  "sourceDirName": "documentation/ddms",
+  "slug": "/documentation/ddms/overview",
+  "permalink": "/docs/docs/documentation/ddms/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/ddms/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Templates",
+    "permalink": "/docs/docs/documentation/templates/overview"
+  },
+  "next": {
+    "title": "Creating a Model",
+    "permalink": "/docs/docs/documentation/ddms/creating-a-ddm"
+  }
+}

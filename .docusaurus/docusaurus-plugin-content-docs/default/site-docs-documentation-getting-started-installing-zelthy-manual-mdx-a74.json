@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/getting-started/installing-zelthy/manual",
+  "id": "documentation/getting-started/installing-zelthy/manual",
+  "title": "Installing Zelthy: Manual Process",
+  "description": "To get started with Zelthy, you will need to install it using the Python package manager, pip.",
+  "source": "@site/docs/documentation/getting-started/installing-zelthy/manual.mdx",
+  "sourceDirName": "documentation/getting-started/installing-zelthy",
+  "slug": "/documentation/getting-started/installing-zelthy/manual",
+  "permalink": "/docs/docs/documentation/getting-started/installing-zelthy/manual",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/getting-started/installing-zelthy/manual.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Manual"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/docs/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Docker",
+    "permalink": "/docs/docs/documentation/getting-started/installing-zelthy/docker"
+  }
+}

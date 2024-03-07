@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/async-tasks/manually-triggering-async-tasks",
+  "id": "documentation/async-tasks/manually-triggering-async-tasks",
+  "title": "Manually triggering Async Tasks",
+  "description": "Async tasks in Zelthy can be manually triggered from any part of your application's codebase. This provides flexibility in managing and executing tasks asynchronously as needed. Below are the steps to manually trigger an async task:",
+  "source": "@site/docs/documentation/async-tasks/manually-triggering-async-tasks.mdx",
+  "sourceDirName": "documentation/async-tasks",
+  "slug": "/documentation/async-tasks/manually-triggering-async-tasks",
+  "permalink": "/docs/docs/documentation/async-tasks/manually-triggering-async-tasks",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/async-tasks/manually-triggering-async-tasks.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Manually Triggering Async Tasks"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Syncing and Viewing Async Task",
+    "permalink": "/docs/docs/documentation/async-tasks/syncing-and-viewing-async-tasks"
+  },
+  "next": {
+    "title": "Scheduling Async Tasks",
+    "permalink": "/docs/docs/documentation/async-tasks/scheduling-async-tasks"
+  }
+}

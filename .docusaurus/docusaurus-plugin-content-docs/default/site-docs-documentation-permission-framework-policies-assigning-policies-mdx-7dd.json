@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/permission-framework/policies/assigning-policies",
+  "id": "documentation/permission-framework/policies/assigning-policies",
+  "title": "Assigning Policies",
+  "description": "After creating policies, the next pivotal step is to utilize these policies to grant the necessary permissions to users. Zelthy offers two methods for leveraging policies to assign permissions:",
+  "source": "@site/docs/documentation/permission-framework/policies/assigning-policies.mdx",
+  "sourceDirName": "documentation/permission-framework/policies",
+  "slug": "/documentation/permission-framework/policies/assigning-policies",
+  "permalink": "/docs/docs/documentation/permission-framework/policies/assigning-policies",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/policies/assigning-policies.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Assigning Policies"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Policy Config JSON",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/policy-config-json"
+  },
+  "next": {
+    "title": "Editing Policy Config",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/editing-policy-config"
+  }
+}

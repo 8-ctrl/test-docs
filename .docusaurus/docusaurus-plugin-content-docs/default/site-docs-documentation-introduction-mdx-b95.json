@@ -1,0 +1,22 @@
+{
+  "unversionedId": "documentation/introduction",
+  "id": "documentation/introduction",
+  "title": "Overview",
+  "description": "Zelthy Platform signifies a radical leap in application development, offering an innovative environment to foster seamless design, development, and integration of Healthcare applications. This platform is a testament to our unwavering commitment to simplifying complex development processes, empowering developers with a robust yet user-friendly toolset that eases the journey from conception to execution.",
+  "source": "@site/docs/documentation/introduction.mdx",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/introduction",
+  "permalink": "/docs/docs/documentation/introduction",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/introduction.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Introduction"
+  },
+  "sidebar": "docsSidebar",
+  "next": {
+    "title": "Platform Architecture",
+    "permalink": "/docs/docs/documentation/platform-architecture"
+  }
+}

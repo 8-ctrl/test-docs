@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/user-management/viewing-users",
+  "id": "documentation/user-management/viewing-users",
+  "title": "Viewing Users in the Application",
+  "description": "Viewing and understanding the user landscape is a key aspect of effective user management. The User Management module in App Panel provides a user-friendly interface to explore and comprehend the users within your application. Here's a guide on how to view users:",
+  "source": "@site/docs/documentation/user-management/viewing-users.mdx",
+  "sourceDirName": "documentation/user-management",
+  "slug": "/documentation/user-management/viewing-users",
+  "permalink": "/docs/docs/documentation/user-management/viewing-users",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-management/viewing-users.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Viewing Users"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "User Management",
+    "permalink": "/docs/docs/documentation/user-management/overview"
+  },
+  "next": {
+    "title": "Adding Users",
+    "permalink": "/docs/docs/documentation/user-management/adding-users"
+  }
+}

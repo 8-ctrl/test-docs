@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/platform-architecture",
+  "id": "documentation/platform-architecture",
+  "title": "Platform Architecture",
+  "description": "Zelthy is a cutting-edge Application Development Platform for developing and deploying Healthcare business apps, emphasizing flexibility, security, compliance and efficiency. The architecture supports multi-tenancy natively, allowing multiple applications on a common deployment and infrastructure.",
+  "source": "@site/docs/documentation/platform-architecture.mdx",
+  "sourceDirName": "documentation",
+  "slug": "/documentation/platform-architecture",
+  "permalink": "/docs/docs/documentation/platform-architecture",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/platform-architecture.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Platform Architecture"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/docs/documentation/introduction"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/docs/docs/category/getting-started"
+  }
+}

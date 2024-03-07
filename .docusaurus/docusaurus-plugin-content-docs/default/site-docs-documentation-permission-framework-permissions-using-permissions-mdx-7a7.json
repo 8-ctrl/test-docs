@@ -1,0 +1,17 @@
+{
+  "unversionedId": "documentation/permission-framework/permissions/using-permissions",
+  "id": "documentation/permission-framework/permissions/using-permissions",
+  "title": "Using Permissions",
+  "description": "Permissions are fundamental elements for controlling access to resources within the Zelthy platform. They're harnessed through policies, enabling a robust access control system. Each type of permission is accompanied by configurable parameters that offer fine-grained control over resource interactions.",
+  "source": "@site/docs/documentation/permission-framework/permissions/using-permissions.mdx",
+  "sourceDirName": "documentation/permission-framework/permissions",
+  "slug": "/documentation/permission-framework/permissions/using-permissions",
+  "permalink": "/docs/docs/documentation/permission-framework/permissions/using-permissions",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/permissions/using-permissions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Using Permissions"
+  }
+}

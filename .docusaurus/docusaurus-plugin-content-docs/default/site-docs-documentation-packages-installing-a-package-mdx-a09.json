@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/packages/installing-a-package",
+  "id": "documentation/packages/installing-a-package",
+  "title": "Installing a Package",
+  "description": "1. Access the Package Management Menu in the App Panel:",
+  "source": "@site/docs/documentation/packages/installing-a-package.mdx",
+  "sourceDirName": "documentation/packages",
+  "slug": "/documentation/packages/installing-a-package",
+  "permalink": "/docs/docs/documentation/packages/installing-a-package",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/packages/installing-a-package.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Installing a Package"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Overview",
+    "permalink": "/docs/docs/documentation/packages/overview"
+  },
+  "next": {
+    "title": "Development Workflow",
+    "permalink": "/docs/docs/category/development-workflow"
+  }
+}

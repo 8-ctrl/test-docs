@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/user-roles/creating-a-user-role",
+  "id": "documentation/user-roles/creating-a-user-role",
+  "title": "Creating a User Role",
+  "description": "To establish distinct access privileges and responsibilities for different users, you can create customized user roles within the Zelthy platform. Follow these simple steps to create a new user role:",
+  "source": "@site/docs/documentation/user-roles/creating-a-user-role.mdx",
+  "sourceDirName": "documentation/user-roles",
+  "slug": "/documentation/user-roles/creating-a-user-role",
+  "permalink": "/docs/docs/documentation/user-roles/creating-a-user-role",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-roles/creating-a-user-role.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Creating a User Role"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "User Roles",
+    "permalink": "/docs/docs/documentation/user-roles/overview"
+  },
+  "next": {
+    "title": "Assigning Policies to User Roles",
+    "permalink": "/docs/docs/documentation/user-roles/assigning-policies-to-user-roles"
+  }
+}

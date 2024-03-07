@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/spinning-up-an-app/intializing-app-codebase",
+  "id": "documentation/spinning-up-an-app/intializing-app-codebase",
+  "title": "Initializing App Codebase",
+  "description": "When you create an app using the App Panel, the codebase for the app is automatically initialized and organized within your project directory. Here's an overview of how the app's codebase is structured:",
+  "source": "@site/docs/documentation/spinning-up-an-app/intializing-app-codebase.mdx",
+  "sourceDirName": "documentation/spinning-up-an-app",
+  "slug": "/documentation/spinning-up-an-app/intializing-app-codebase",
+  "permalink": "/docs/docs/documentation/spinning-up-an-app/intializing-app-codebase",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/spinning-up-an-app/intializing-app-codebase.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Initializing App Codebase"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Launch the App",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/launch-the-app"
+  },
+  "next": {
+    "title": "Switching to the App View",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/switching-to-app-view"
+  }
+}

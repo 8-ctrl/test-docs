@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/views-and-routes/overview",
+  "id": "documentation/views-and-routes/overview",
+  "title": "Views and Routes",
+  "description": "In Zelthy, the concepts of Views and Routes closely align with the principles you'd find in Django, a popular Python web framework. These two components are fundamental in defining how your healthcare app responds to incoming requests and how it presents information to users.",
+  "source": "@site/docs/documentation/views-and-routes/overview.mdx",
+  "sourceDirName": "documentation/views-and-routes",
+  "slug": "/documentation/views-and-routes/overview",
+  "permalink": "/docs/docs/documentation/views-and-routes/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/views-and-routes/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Registering a Module",
+    "permalink": "/docs/docs/documentation/modules/registering-a-module"
+  },
+  "next": {
+    "title": "Creating a View",
+    "permalink": "/docs/docs/documentation/views-and-routes/creating-a-view"
+  }
+}

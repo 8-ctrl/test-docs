@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/user-roles/overview",
+  "id": "documentation/user-roles/overview",
+  "title": "User Roles",
+  "description": "User roles are an integral part of the Zelthy healthcare app development platform, offering a structured approach to defining user access and permissions. With user roles, you can efficiently manage how individuals interact with the healthcare apps built on this platform. An app can accommodate any number of user roles, each with its own set of responsibilities and privileges.",
+  "source": "@site/docs/documentation/user-roles/overview.mdx",
+  "sourceDirName": "documentation/user-roles",
+  "slug": "/documentation/user-roles/overview",
+  "permalink": "/docs/docs/documentation/user-roles/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-roles/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Updating App Theme",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/updating-app-theme"
+  },
+  "next": {
+    "title": "Creating a User Role",
+    "permalink": "/docs/docs/documentation/user-roles/creating-a-user-role"
+  }
+}

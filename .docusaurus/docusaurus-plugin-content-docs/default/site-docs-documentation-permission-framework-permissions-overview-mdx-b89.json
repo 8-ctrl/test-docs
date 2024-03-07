@@ -1,0 +1,15 @@
+{
+  "unversionedId": "documentation/permission-framework/permissions/overview",
+  "id": "documentation/permission-framework/permissions/overview",
+  "title": "Permissions",
+  "description": "Permissions serve as fundamental building blocks within the Zelthy platform, functioning as gateways that regulate access to specific resources based on predefined rules. These rules are integral to ensuring the right individuals interact with the appropriate components of healthcare applications. A permission essentially acts as a \"key\" that users must possess to unlock certain functionalities or data sets.",
+  "source": "@site/docs/documentation/permission-framework/permissions/overview.mdx",
+  "sourceDirName": "documentation/permission-framework/permissions",
+  "slug": "/documentation/permission-framework/permissions/overview",
+  "permalink": "/docs/docs/documentation/permission-framework/permissions/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/permissions/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "documentation/views-and-routes/types-of-views",
+  "id": "documentation/views-and-routes/types-of-views",
+  "title": "Types of Views in Zelthy",
+  "description": "In Zelthy, views play a pivotal role in defining how your healthcare app interacts with users and processes data. These views can be broadly categorized into two main types: API Views and Template Views. Let's delve into these categories and explore their various subtypes.",
+  "source": "@site/docs/documentation/views-and-routes/types-of-views.mdx",
+  "sourceDirName": "documentation/views-and-routes",
+  "slug": "/documentation/views-and-routes/types-of-views",
+  "permalink": "/docs/docs/documentation/views-and-routes/types-of-views",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/views-and-routes/types-of-views.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Types of Views"
+  }
+}

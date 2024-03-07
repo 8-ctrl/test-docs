@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/async-tasks/overview",
+  "id": "documentation/async-tasks/overview",
+  "title": "Async Tasks",
+  "description": "Async tasks allow you to execute pieces of code asynchronously, enabling non-blocking execution and improving the overall responsiveness and scalability of your application. These tasks can be triggered in two main ways: through direct invocation or by scheduling them to run at specified intervals.",
+  "source": "@site/docs/documentation/async-tasks/overview.mdx",
+  "sourceDirName": "documentation/async-tasks",
+  "slug": "/documentation/async-tasks/overview",
+  "permalink": "/docs/docs/documentation/async-tasks/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/async-tasks/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Migrating Model",
+    "permalink": "/docs/docs/documentation/ddms/migrating-ddms"
+  },
+  "next": {
+    "title": "Creating an Async Task",
+    "permalink": "/docs/docs/documentation/async-tasks/creating-an-async-task"
+  }
+}

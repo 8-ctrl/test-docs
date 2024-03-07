@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/user-roles/assigning-policies-to-user-roles",
+  "id": "documentation/user-roles/assigning-policies-to-user-roles",
+  "title": "Assigning Policies to User Roles",
+  "description": "Assigning policies to user roles in the Zelthy platform allows you to precisely define the permissions and access levels associated with each role. Here's how you can assign policies to a user role:",
+  "source": "@site/docs/documentation/user-roles/assigning-policies-to-user-roles.mdx",
+  "sourceDirName": "documentation/user-roles",
+  "slug": "/documentation/user-roles/assigning-policies-to-user-roles",
+  "permalink": "/docs/docs/documentation/user-roles/assigning-policies-to-user-roles",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-roles/assigning-policies-to-user-roles.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Assigning Policies to User Roles"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Creating a User Role",
+    "permalink": "/docs/docs/documentation/user-roles/creating-a-user-role"
+  },
+  "next": {
+    "title": "Deactivating a User Role",
+    "permalink": "/docs/docs/documentation/user-roles/deactivating-a-user-role"
+  }
+}

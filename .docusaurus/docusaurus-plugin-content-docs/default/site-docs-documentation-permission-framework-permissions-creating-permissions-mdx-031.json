@@ -1,0 +1,17 @@
+{
+  "unversionedId": "documentation/permission-framework/permissions/creating-permissions",
+  "id": "documentation/permission-framework/permissions/creating-permissions",
+  "title": "Creating Permissions",
+  "description": "Permissions within the Zelthy platform play a pivotal role in regulating access to resources and functionalities within healthcare applications. However, the creation of permissions follows a distinct approach to ensure consistency and control. Permissions are created automatically (except for Custom Permissions).",
+  "source": "@site/docs/documentation/permission-framework/permissions/creating-permissions.mdx",
+  "sourceDirName": "documentation/permission-framework/permissions",
+  "slug": "/documentation/permission-framework/permissions/creating-permissions",
+  "permalink": "/docs/docs/documentation/permission-framework/permissions/creating-permissions",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/permissions/creating-permissions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Creating Permissions"
+  }
+}

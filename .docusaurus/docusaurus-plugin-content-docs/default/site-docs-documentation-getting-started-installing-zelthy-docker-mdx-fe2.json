@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/getting-started/installing-zelthy/docker",
+  "id": "documentation/getting-started/installing-zelthy/docker",
+  "title": "Installing Zelthy with Docker",
+  "description": "Prerequisites",
+  "source": "@site/docs/documentation/getting-started/installing-zelthy/docker.mdx",
+  "sourceDirName": "documentation/getting-started/installing-zelthy",
+  "slug": "/documentation/getting-started/installing-zelthy/docker",
+  "permalink": "/docs/docs/documentation/getting-started/installing-zelthy/docker",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/getting-started/installing-zelthy/docker.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Docker"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Manual",
+    "permalink": "/docs/docs/documentation/getting-started/installing-zelthy/manual"
+  },
+  "next": {
+    "title": "Accessing the App Panel",
+    "permalink": "/docs/docs/documentation/getting-started/accessing-app-panel"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/ddms/ddm-field-types",
+  "id": "documentation/ddms/ddm-field-types",
+  "title": "Field Types",
+  "description": "Models in Zelthy support various field types, allowing you to define flexible and customized data structures for each tenant within your multi-tenant application. These field types can be broadly categorized into two groups: non-relational fields and relational fields.",
+  "source": "@site/docs/documentation/ddms/ddm-field-types.mdx",
+  "sourceDirName": "documentation/ddms",
+  "slug": "/documentation/ddms/ddm-field-types",
+  "permalink": "/docs/docs/documentation/ddms/ddm-field-types",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/ddms/ddm-field-types.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Field Types"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Creating a Model",
+    "permalink": "/docs/docs/documentation/ddms/creating-a-ddm"
+  },
+  "next": {
+    "title": "Migrating Model",
+    "permalink": "/docs/docs/documentation/ddms/migrating-ddms"
+  }
+}

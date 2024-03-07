@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/spinning-up-an-app/updating-app-theme",
+  "id": "documentation/spinning-up-an-app/updating-app-theme",
+  "title": "Updating the App Theme",
+  "description": "The Zelthy platform allows you to customize the user interface (UI) theme of your healthcare app, including primary and secondary colors, fonts, call-to-action (CTA) styles, and more. This flexibility enables you to align your app's appearance with your organization's branding guidelines, ensuring consistency and a professional look. Here's how you can update the theme of your app:",
+  "source": "@site/docs/documentation/spinning-up-an-app/updating-app-theme.mdx",
+  "sourceDirName": "documentation/spinning-up-an-app",
+  "slug": "/documentation/spinning-up-an-app/updating-app-theme",
+  "permalink": "/docs/docs/documentation/spinning-up-an-app/updating-app-theme",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/spinning-up-an-app/updating-app-theme.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Updating App Theme"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Updating App Settings",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/updating-app-settings"
+  },
+  "next": {
+    "title": "User Roles",
+    "permalink": "/docs/docs/documentation/user-roles/overview"
+  }
+}

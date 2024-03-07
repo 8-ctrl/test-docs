@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/user-roles/reserved-user-roles",
+  "id": "documentation/user-roles/reserved-user-roles",
+  "title": "Reserved User Roles",
+  "description": "Within the Zelthy application, two reserved user roles serve specific purposes to facilitate a well-structured access control framework:",
+  "source": "@site/docs/documentation/user-roles/reserved-user-roles.mdx",
+  "sourceDirName": "documentation/user-roles",
+  "slug": "/documentation/user-roles/reserved-user-roles",
+  "permalink": "/docs/docs/documentation/user-roles/reserved-user-roles",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-roles/reserved-user-roles.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Reserved User Roles"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Deactivating a User Role",
+    "permalink": "/docs/docs/documentation/user-roles/deactivating-a-user-role"
+  },
+  "next": {
+    "title": "User Management",
+    "permalink": "/docs/docs/documentation/user-management/overview"
+  }
+}

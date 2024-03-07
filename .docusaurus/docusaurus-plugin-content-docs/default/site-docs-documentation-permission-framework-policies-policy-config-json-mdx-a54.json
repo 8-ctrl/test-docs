@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/permission-framework/policies/policy-config-json",
+  "id": "documentation/permission-framework/policies/policy-config-json",
+  "title": "Policy Configuration JSON and Permission Types",
+  "description": "Configuring policies and permissions is a fundamental aspect of access control within the Zelthy platform. The Policy Config JSON acts as the tool through which permissions are initialized and fine-tuned. Let's delve into the structure of the Policy Config JSON and explore how it's used for different types of permissions:",
+  "source": "@site/docs/documentation/permission-framework/policies/policy-config-json.mdx",
+  "sourceDirName": "documentation/permission-framework/policies",
+  "slug": "/documentation/permission-framework/policies/policy-config-json",
+  "permalink": "/docs/docs/documentation/permission-framework/policies/policy-config-json",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/policies/policy-config-json.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Policy Config JSON"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Creating a Policy",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/creating-a-policy"
+  },
+  "next": {
+    "title": "Assigning Policies",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/assigning-policies"
+  }
+}

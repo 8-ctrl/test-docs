@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/spinning-up-an-app/launch-the-app",
+  "id": "documentation/spinning-up-an-app/launch-the-app",
+  "title": "Launch the App",
+  "description": "Creating a healthcare app within the Zelthy platform is a straightforward process. Here's how you can get started:",
+  "source": "@site/docs/documentation/spinning-up-an-app/launch-the-app.mdx",
+  "sourceDirName": "documentation/spinning-up-an-app",
+  "slug": "/documentation/spinning-up-an-app/launch-the-app",
+  "permalink": "/docs/docs/documentation/spinning-up-an-app/launch-the-app",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/spinning-up-an-app/launch-the-app.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Launch the App"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Building your first App",
+    "permalink": "/docs/docs/category/building-your-first-app"
+  },
+  "next": {
+    "title": "Initializing App Codebase",
+    "permalink": "/docs/docs/documentation/spinning-up-an-app/intializing-app-codebase"
+  }
+}

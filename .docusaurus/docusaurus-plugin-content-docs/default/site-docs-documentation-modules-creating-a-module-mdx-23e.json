@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/modules/creating-a-module",
+  "id": "documentation/modules/creating-a-module",
+  "title": "Creating a Module",
+  "description": "In the Zelthy healthcare app development platform, modules are essential for organizing your application's features and functionalities. Creating a module involves several steps to set up the structure and logic for a specific aspect of your app. Here's a step-by-step guide on how to create a module:",
+  "source": "@site/docs/documentation/modules/creating-a-module.mdx",
+  "sourceDirName": "documentation/modules",
+  "slug": "/documentation/modules/creating-a-module",
+  "permalink": "/docs/docs/documentation/modules/creating-a-module",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/modules/creating-a-module.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Creating a Module"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Modules",
+    "permalink": "/docs/docs/documentation/modules/overview"
+  },
+  "next": {
+    "title": "Registering a Module",
+    "permalink": "/docs/docs/documentation/modules/registering-a-module"
+  }
+}

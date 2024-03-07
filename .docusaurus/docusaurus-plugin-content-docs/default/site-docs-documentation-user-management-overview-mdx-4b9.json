@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/user-management/overview",
+  "id": "documentation/user-management/overview",
+  "title": "User Management",
+  "description": "User Management is a critical aspect of overseeing the application's user base within the Zelthy platform. This module empowers administrators and developers to efficiently manage users' access and permissions while ensuring a secure and organized environment. Here's an overview of the key functionalities provided by the User Management system:",
+  "source": "@site/docs/documentation/user-management/overview.mdx",
+  "sourceDirName": "documentation/user-management",
+  "slug": "/documentation/user-management/overview",
+  "permalink": "/docs/docs/documentation/user-management/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-management/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Reserved User Roles",
+    "permalink": "/docs/docs/documentation/user-roles/reserved-user-roles"
+  },
+  "next": {
+    "title": "Viewing Users",
+    "permalink": "/docs/docs/documentation/user-management/viewing-users"
+  }
+}

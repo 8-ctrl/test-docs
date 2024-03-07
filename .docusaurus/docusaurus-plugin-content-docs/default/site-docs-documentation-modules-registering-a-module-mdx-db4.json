@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/modules/registering-a-module",
+  "id": "documentation/modules/registering-a-module",
+  "title": "Registering a Module",
+  "description": "In the Zelthy healthcare app development platform, registering a module is crucial to make your app recognize and utilize the components and routes within that module. This process involves two main steps",
+  "source": "@site/docs/documentation/modules/registering-a-module.mdx",
+  "sourceDirName": "documentation/modules",
+  "slug": "/documentation/modules/registering-a-module",
+  "permalink": "/docs/docs/documentation/modules/registering-a-module",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/modules/registering-a-module.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Registering a Module"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Creating a Module",
+    "permalink": "/docs/docs/documentation/modules/creating-a-module"
+  },
+  "next": {
+    "title": "Views and Routes",
+    "permalink": "/docs/docs/documentation/views-and-routes/overview"
+  }
+}

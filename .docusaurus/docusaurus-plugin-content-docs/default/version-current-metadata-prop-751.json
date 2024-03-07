@@ -1,0 +1,691 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "docsSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/docs/documentation/introduction",
+        "docId": "documentation/introduction"
+      },
+      {
+        "type": "link",
+        "label": "Platform Architecture",
+        "href": "/docs/docs/documentation/platform-architecture",
+        "docId": "documentation/platform-architecture"
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Installing Zelthy",
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Manual",
+                "href": "/docs/docs/documentation/getting-started/installing-zelthy/manual",
+                "docId": "documentation/getting-started/installing-zelthy/manual"
+              },
+              {
+                "type": "link",
+                "label": "Docker",
+                "href": "/docs/docs/documentation/getting-started/installing-zelthy/docker",
+                "docId": "documentation/getting-started/installing-zelthy/docker"
+              }
+            ],
+            "collapsible": true
+          },
+          {
+            "type": "link",
+            "label": "Accessing the App Panel",
+            "href": "/docs/docs/documentation/getting-started/accessing-app-panel",
+            "docId": "documentation/getting-started/accessing-app-panel"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/category/getting-started"
+      },
+      {
+        "type": "category",
+        "label": "Building your first App",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Launch the App",
+            "href": "/docs/docs/documentation/spinning-up-an-app/launch-the-app",
+            "docId": "documentation/spinning-up-an-app/launch-the-app"
+          },
+          {
+            "type": "link",
+            "label": "Initializing App Codebase",
+            "href": "/docs/docs/documentation/spinning-up-an-app/intializing-app-codebase",
+            "docId": "documentation/spinning-up-an-app/intializing-app-codebase"
+          },
+          {
+            "type": "link",
+            "label": "Switching to the App View",
+            "href": "/docs/docs/documentation/spinning-up-an-app/switching-to-app-view",
+            "docId": "documentation/spinning-up-an-app/switching-to-app-view"
+          },
+          {
+            "type": "link",
+            "label": "Updating App Settings",
+            "href": "/docs/docs/documentation/spinning-up-an-app/updating-app-settings",
+            "docId": "documentation/spinning-up-an-app/updating-app-settings"
+          },
+          {
+            "type": "link",
+            "label": "Updating App Theme",
+            "href": "/docs/docs/documentation/spinning-up-an-app/updating-app-theme",
+            "docId": "documentation/spinning-up-an-app/updating-app-theme"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/category/building-your-first-app"
+      },
+      {
+        "type": "category",
+        "label": "User Roles",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating a User Role",
+            "href": "/docs/docs/documentation/user-roles/creating-a-user-role",
+            "docId": "documentation/user-roles/creating-a-user-role"
+          },
+          {
+            "type": "link",
+            "label": "Assigning Policies to User Roles",
+            "href": "/docs/docs/documentation/user-roles/assigning-policies-to-user-roles",
+            "docId": "documentation/user-roles/assigning-policies-to-user-roles"
+          },
+          {
+            "type": "link",
+            "label": "Deactivating a User Role",
+            "href": "/docs/docs/documentation/user-roles/deactivating-a-user-role",
+            "docId": "documentation/user-roles/deactivating-a-user-role"
+          },
+          {
+            "type": "link",
+            "label": "Reserved User Roles",
+            "href": "/docs/docs/documentation/user-roles/reserved-user-roles",
+            "docId": "documentation/user-roles/reserved-user-roles"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/documentation/user-roles/overview"
+      },
+      {
+        "type": "category",
+        "label": "User Management",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Viewing Users",
+            "href": "/docs/docs/documentation/user-management/viewing-users",
+            "docId": "documentation/user-management/viewing-users"
+          },
+          {
+            "type": "link",
+            "label": "Adding Users",
+            "href": "/docs/docs/documentation/user-management/adding-users",
+            "docId": "documentation/user-management/adding-users"
+          },
+          {
+            "type": "link",
+            "label": "Updating User Roles",
+            "href": "/docs/docs/documentation/user-management/updating-user-roles",
+            "docId": "documentation/user-management/updating-user-roles"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/documentation/user-management/overview"
+      },
+      {
+        "type": "category",
+        "label": "Permission Framework",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Policies",
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Viewing Policies",
+                "href": "/docs/docs/documentation/permission-framework/policies/viewing-policies",
+                "docId": "documentation/permission-framework/policies/viewing-policies"
+              },
+              {
+                "type": "link",
+                "label": "Creating a Policy",
+                "href": "/docs/docs/documentation/permission-framework/policies/creating-a-policy",
+                "docId": "documentation/permission-framework/policies/creating-a-policy"
+              },
+              {
+                "type": "link",
+                "label": "Policy Config JSON",
+                "href": "/docs/docs/documentation/permission-framework/policies/policy-config-json",
+                "docId": "documentation/permission-framework/policies/policy-config-json"
+              },
+              {
+                "type": "link",
+                "label": "Assigning Policies",
+                "href": "/docs/docs/documentation/permission-framework/policies/assigning-policies",
+                "docId": "documentation/permission-framework/policies/assigning-policies"
+              },
+              {
+                "type": "link",
+                "label": "Editing Policy Config",
+                "href": "/docs/docs/documentation/permission-framework/policies/editing-policy-config",
+                "docId": "documentation/permission-framework/policies/editing-policy-config"
+              }
+            ],
+            "collapsible": true,
+            "href": "/docs/docs/documentation/permission-framework/policies/overview"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/documentation/permission-framework/overview"
+      },
+      {
+        "type": "category",
+        "label": "Packages",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Installing a Package",
+            "href": "/docs/docs/documentation/packages/installing-a-package",
+            "docId": "documentation/packages/installing-a-package"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/documentation/packages/overview"
+      },
+      {
+        "type": "category",
+        "label": "Development Workflow",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "category",
+            "label": "Modules",
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Creating a Module",
+                "href": "/docs/docs/documentation/modules/creating-a-module",
+                "docId": "documentation/modules/creating-a-module"
+              },
+              {
+                "type": "link",
+                "label": "Registering a Module",
+                "href": "/docs/docs/documentation/modules/registering-a-module",
+                "docId": "documentation/modules/registering-a-module"
+              }
+            ],
+            "collapsible": true,
+            "href": "/docs/docs/documentation/modules/overview"
+          },
+          {
+            "type": "category",
+            "label": "Views and Routes",
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Creating a View",
+                "href": "/docs/docs/documentation/views-and-routes/creating-a-view",
+                "docId": "documentation/views-and-routes/creating-a-view"
+              },
+              {
+                "type": "link",
+                "label": "Assigning Route to a View",
+                "href": "/docs/docs/documentation/views-and-routes/assigning-route-to-a-view",
+                "docId": "documentation/views-and-routes/assigning-route-to-a-view"
+              }
+            ],
+            "collapsible": true,
+            "href": "/docs/docs/documentation/views-and-routes/overview"
+          },
+          {
+            "type": "link",
+            "label": "Templates",
+            "href": "/docs/docs/documentation/templates/overview",
+            "docId": "documentation/templates/overview"
+          },
+          {
+            "type": "category",
+            "label": "Models",
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Creating a Model",
+                "href": "/docs/docs/documentation/ddms/creating-a-ddm",
+                "docId": "documentation/ddms/creating-a-ddm"
+              },
+              {
+                "type": "link",
+                "label": "Field Types",
+                "href": "/docs/docs/documentation/ddms/ddm-field-types",
+                "docId": "documentation/ddms/ddm-field-types"
+              },
+              {
+                "type": "link",
+                "label": "Migrating Model",
+                "href": "/docs/docs/documentation/ddms/migrating-ddms",
+                "docId": "documentation/ddms/migrating-ddms"
+              }
+            ],
+            "collapsible": true,
+            "href": "/docs/docs/documentation/ddms/overview"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/category/development-workflow"
+      },
+      {
+        "type": "category",
+        "label": "Async Tasks",
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Creating an Async Task",
+            "href": "/docs/docs/documentation/async-tasks/creating-an-async-task",
+            "docId": "documentation/async-tasks/creating-an-async-task"
+          },
+          {
+            "type": "link",
+            "label": "Syncing and Viewing Async Task",
+            "href": "/docs/docs/documentation/async-tasks/syncing-and-viewing-async-tasks",
+            "docId": "documentation/async-tasks/syncing-and-viewing-async-tasks"
+          },
+          {
+            "type": "link",
+            "label": "Manually Triggering Async Tasks",
+            "href": "/docs/docs/documentation/async-tasks/manually-triggering-async-tasks",
+            "docId": "documentation/async-tasks/manually-triggering-async-tasks"
+          },
+          {
+            "type": "link",
+            "label": "Scheduling Async Tasks",
+            "href": "/docs/docs/documentation/async-tasks/scheduling-async-tasks",
+            "docId": "documentation/async-tasks/scheduling-async-tasks"
+          }
+        ],
+        "collapsible": true,
+        "href": "/docs/docs/documentation/async-tasks/overview"
+      }
+    ]
+  },
+  "docs": {
+    "documentation/async-tasks/creating-an-async-task": {
+      "id": "documentation/async-tasks/creating-an-async-task",
+      "title": "Creating an Async Task",
+      "description": "In Zelthy, asynchronous tasks are defined as functions within a tasks.py file located inside any module folder of your application. These tasks leverage the @shared_task function decorator to indicate that they should be executed asynchronously.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/async-tasks/manually-triggering-async-tasks": {
+      "id": "documentation/async-tasks/manually-triggering-async-tasks",
+      "title": "Manually triggering Async Tasks",
+      "description": "Async tasks in Zelthy can be manually triggered from any part of your application's codebase. This provides flexibility in managing and executing tasks asynchronously as needed. Below are the steps to manually trigger an async task:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/async-tasks/overview": {
+      "id": "documentation/async-tasks/overview",
+      "title": "Async Tasks",
+      "description": "Async tasks allow you to execute pieces of code asynchronously, enabling non-blocking execution and improving the overall responsiveness and scalability of your application. These tasks can be triggered in two main ways: through direct invocation or by scheduling them to run at specified intervals.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/async-tasks/scheduling-async-tasks": {
+      "id": "documentation/async-tasks/scheduling-async-tasks",
+      "title": "Scheduling Async Tasks",
+      "description": "- Navigate to the Tasks Menu:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/async-tasks/syncing-and-viewing-async-tasks": {
+      "id": "documentation/async-tasks/syncing-and-viewing-async-tasks",
+      "title": "Syncing and Viewing Async Tasks",
+      "description": "In Zelthy, asynchronous tasks can be managed through the Async Tasks page in the App Panel. This page allows users to view, synchronize, and manage all asynchronous tasks defined within the application.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/ddms/creating-a-ddm": {
+      "id": "documentation/ddms/creating-a-ddm",
+      "title": "Creating a Model",
+      "description": "Models in Zelthy are a powerful way to define custom data structures tailored to the unique needs of individual tenants in a multi-tenant application. Defining a Model class in Zelthy is quite similar to creating a model class in Django, with a few distinctions.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/ddms/ddm-field-types": {
+      "id": "documentation/ddms/ddm-field-types",
+      "title": "Field Types",
+      "description": "Models in Zelthy support various field types, allowing you to define flexible and customized data structures for each tenant within your multi-tenant application. These field types can be broadly categorized into two groups: non-relational fields and relational fields.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/ddms/migrating-ddms": {
+      "id": "documentation/ddms/migrating-ddms",
+      "title": "Migrating Model",
+      "description": "Migrating Models in Zelthy is a straightforward process that allows you to apply changes made to your model definitions. This ensures that your data structure remains up-to-date and aligned with your evolving application requirements.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/ddms/overview": {
+      "id": "documentation/ddms/overview",
+      "title": "Models",
+      "description": "Zelthy Data Model is a powerful feature designed to meet the specific needs of multi-tenant systems. This innovative concept allows you to define different data models for each tenant within the same application, making Zelthy a versatile platform for building multi-tenant applications.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/deployment/overview": {
+      "id": "documentation/deployment/overview",
+      "title": "Deployment",
+      "description": "How to Deploy the apps?"
+    },
+    "documentation/development-of-app/overview": {
+      "id": "documentation/development-of-app/overview",
+      "title": "overview",
+      "description": ""
+    },
+    "documentation/events/overview": {
+      "id": "documentation/events/overview",
+      "title": "Events",
+      "description": "What is an Event?"
+    },
+    "documentation/getting-started/accessing-app-panel": {
+      "id": "documentation/getting-started/accessing-app-panel",
+      "title": "Accessing the App Panel",
+      "description": "To start creating apps on the Zelthy platform, you'll need to access App Panel, which is the control center for managing Apps on the Zelthy Platform. Follow these steps to access the App Panel:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/getting-started/installing-zelthy/docker": {
+      "id": "documentation/getting-started/installing-zelthy/docker",
+      "title": "Installing Zelthy with Docker",
+      "description": "Prerequisites",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/getting-started/installing-zelthy/manual": {
+      "id": "documentation/getting-started/installing-zelthy/manual",
+      "title": "Installing Zelthy: Manual Process",
+      "description": "To get started with Zelthy, you will need to install it using the Python package manager, pip.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/introduction": {
+      "id": "documentation/introduction",
+      "title": "Overview",
+      "description": "Zelthy Platform signifies a radical leap in application development, offering an innovative environment to foster seamless design, development, and integration of Healthcare applications. This platform is a testament to our unwavering commitment to simplifying complex development processes, empowering developers with a robust yet user-friendly toolset that eases the journey from conception to execution.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/modules/creating-a-module": {
+      "id": "documentation/modules/creating-a-module",
+      "title": "Creating a Module",
+      "description": "In the Zelthy healthcare app development platform, modules are essential for organizing your application's features and functionalities. Creating a module involves several steps to set up the structure and logic for a specific aspect of your app. Here's a step-by-step guide on how to create a module:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/modules/development/hello-world-example": {
+      "id": "documentation/modules/development/hello-world-example",
+      "title": "hello-world-example",
+      "description": ""
+    },
+    "documentation/modules/development/models": {
+      "id": "documentation/modules/development/models",
+      "title": "models",
+      "description": ""
+    },
+    "documentation/modules/development/overview": {
+      "id": "documentation/modules/development/overview",
+      "title": "overview",
+      "description": ""
+    },
+    "documentation/modules/overview": {
+      "id": "documentation/modules/overview",
+      "title": "Modules",
+      "description": "In the context of the Zelthy healthcare app development platform, modules play a pivotal role in organizing and structuring your application for improved organization, maintainability, and understanding. Let's delve into the key aspects of modules.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/modules/registering-a-module": {
+      "id": "documentation/modules/registering-a-module",
+      "title": "Registering a Module",
+      "description": "In the Zelthy healthcare app development platform, registering a module is crucial to make your app recognize and utilize the components and routes within that module. This process involves two main steps",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/packages/installing-a-package": {
+      "id": "documentation/packages/installing-a-package",
+      "title": "Installing a Package",
+      "description": "1. Access the Package Management Menu in the App Panel:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/packages/overview": {
+      "id": "documentation/packages/overview",
+      "title": "Packages",
+      "description": "Zelthy Packages are a collection of reusable components designed to enhance and extend the functionality of your Zelthy applications. Similar to Python packages, Zelthy Packages provide a convenient way to modularize and share components across different applications on the Zelthy platform. This overview document will guide you through the key concepts and steps involved in working with Zelthy Packages.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/permission-framework/overview": {
+      "id": "documentation/permission-framework/overview",
+      "title": "Permission Framework",
+      "description": "The Permission Framework within the Zelthy platform serves as a robust mechanism for managing and controlling user access to various resources such as views, databases, and more. By employing this framework, you can ensure the secure and controlled distribution of permissions throughout your healthcare enterprise applications.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/permission-framework/permissions/creating-permissions": {
+      "id": "documentation/permission-framework/permissions/creating-permissions",
+      "title": "Creating Permissions",
+      "description": "Permissions within the Zelthy platform play a pivotal role in regulating access to resources and functionalities within healthcare applications. However, the creation of permissions follows a distinct approach to ensure consistency and control. Permissions are created automatically (except for Custom Permissions)."
+    },
+    "documentation/permission-framework/permissions/custom-permissions": {
+      "id": "documentation/permission-framework/permissions/custom-permissions",
+      "title": "Custom Permissions",
+      "description": "Custom permissions offer developers the flexibility to define bespoke access rules for resources beyond views and data models. This empowers you to finely tailor access control to specific use cases. Here's how custom permissions are created, defined, and utilized:"
+    },
+    "documentation/permission-framework/permissions/overview": {
+      "id": "documentation/permission-framework/permissions/overview",
+      "title": "Permissions",
+      "description": "Permissions serve as fundamental building blocks within the Zelthy platform, functioning as gateways that regulate access to specific resources based on predefined rules. These rules are integral to ensuring the right individuals interact with the appropriate components of healthcare applications. A permission essentially acts as a \"key\" that users must possess to unlock certain functionalities or data sets."
+    },
+    "documentation/permission-framework/permissions/syncing-and-viewing-permissions": {
+      "id": "documentation/permission-framework/permissions/syncing-and-viewing-permissions",
+      "title": "Syncing and Viewing Permissions",
+      "description": "Ensuring the visibility and accuracy of permissions is vital within the Zelthy platform. Permissions are automatically created to regulate access, but to make them visible in App Panel, a syncing process is required. Here's how you can view permissions and synchronize them to reflect the latest codebase changes:"
+    },
+    "documentation/permission-framework/permissions/using-permissions": {
+      "id": "documentation/permission-framework/permissions/using-permissions",
+      "title": "Using Permissions",
+      "description": "Permissions are fundamental elements for controlling access to resources within the Zelthy platform. They're harnessed through policies, enabling a robust access control system. Each type of permission is accompanied by configurable parameters that offer fine-grained control over resource interactions."
+    },
+    "documentation/permission-framework/policies/archiving-a-policy": {
+      "id": "documentation/permission-framework/policies/archiving-a-policy",
+      "title": "Deactivating a Policy",
+      "description": "Deactivating a policy is an essential task for maintaining a well-organized access control environment. Here's a step-by-step guide on how to deactivate a policy using the App Panel interface:"
+    },
+    "documentation/permission-framework/policies/assigning-policies": {
+      "id": "documentation/permission-framework/policies/assigning-policies",
+      "title": "Assigning Policies",
+      "description": "After creating policies, the next pivotal step is to utilize these policies to grant the necessary permissions to users. Zelthy offers two methods for leveraging policies to assign permissions:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/permission-framework/policies/creating-a-policy": {
+      "id": "documentation/permission-framework/policies/creating-a-policy",
+      "title": "Creating a Policy",
+      "description": "Creating policies is a pivotal step in configuring access control within the Zelthy platform. Here's a step-by-step guide on how to create a new policy using the App Panel interface:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/permission-framework/policies/editing-policy-config": {
+      "id": "documentation/permission-framework/policies/editing-policy-config",
+      "title": "Editing Policy Configuration",
+      "description": "Editing the Policy Config JSON allows you to adapt policy configurations to evolving access requirements. Here's a step-by-step guide on how to edit the Policy Config JSON:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/permission-framework/policies/overview": {
+      "id": "documentation/permission-framework/policies/overview",
+      "title": "Policies",
+      "description": "Policies are the cornerstone of access control within the Zelthy platform, governing how permissions are assigned and managed. Understanding policies is essential for orchestrating user access to different resources.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/permission-framework/policies/policy-config-json": {
+      "id": "documentation/permission-framework/policies/policy-config-json",
+      "title": "Policy Configuration JSON and Permission Types",
+      "description": "Configuring policies and permissions is a fundamental aspect of access control within the Zelthy platform. The Policy Config JSON acts as the tool through which permissions are initialized and fine-tuned. Let's delve into the structure of the Policy Config JSON and explore how it's used for different types of permissions:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/permission-framework/policies/viewing-policies": {
+      "id": "documentation/permission-framework/policies/viewing-policies",
+      "title": "Viewing Policies",
+      "description": "Understanding and managing policies is crucial for maintaining a robust access control system within the Zelthy platform. Here's how you can easily view policies using the App Panel interface:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/platform-architecture": {
+      "id": "documentation/platform-architecture",
+      "title": "Platform Architecture",
+      "description": "Zelthy is a cutting-edge Application Development Platform for developing and deploying Healthcare business apps, emphasizing flexibility, security, compliance and efficiency. The architecture supports multi-tenancy natively, allowing multiple applications on a common deployment and infrastructure.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/spinning-up-an-app/intializing-app-codebase": {
+      "id": "documentation/spinning-up-an-app/intializing-app-codebase",
+      "title": "Initializing App Codebase",
+      "description": "When you create an app using the App Panel, the codebase for the app is automatically initialized and organized within your project directory. Here's an overview of how the app's codebase is structured:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/spinning-up-an-app/launch-the-app": {
+      "id": "documentation/spinning-up-an-app/launch-the-app",
+      "title": "Launch the App",
+      "description": "Creating a healthcare app within the Zelthy platform is a straightforward process. Here's how you can get started:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/spinning-up-an-app/switching-to-app-view": {
+      "id": "documentation/spinning-up-an-app/switching-to-app-view",
+      "title": "Switching to the App View",
+      "description": "After creating or locating your healthcare app within App Panel, you can switch to the app's detail view to access a wide range of functionalities specific to your app. Here's how you can do it:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/spinning-up-an-app/updating-app-settings": {
+      "id": "documentation/spinning-up-an-app/updating-app-settings",
+      "title": "Updating App Settings",
+      "description": "In the app view within the App Panel, you have the ability to update and configure various settings for your healthcare app. Here's how you can update the app settings:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/spinning-up-an-app/updating-app-theme": {
+      "id": "documentation/spinning-up-an-app/updating-app-theme",
+      "title": "Updating the App Theme",
+      "description": "The Zelthy platform allows you to customize the user interface (UI) theme of your healthcare app, including primary and secondary colors, fonts, call-to-action (CTA) styles, and more. This flexibility enables you to align your app's appearance with your organization's branding guidelines, ensuring consistency and a professional look. Here's how you can update the theme of your app:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/static-and-media/overview": {
+      "id": "documentation/static-and-media/overview",
+      "title": "Static and Media",
+      "description": "What is Static?"
+    },
+    "documentation/templates/overview": {
+      "id": "documentation/templates/overview",
+      "title": "Templates",
+      "description": "Templates in Zelthy serve the same purpose as they do in Django or other web frameworks. They provide a way to separate the design or presentation layer from the business logic of your application. In Zelthy, you can use templates to generate HTML dynamically based on data and user interactions. Here's what you need to know about working with templates in Zelthy:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-management/adding-users": {
+      "id": "documentation/user-management/adding-users",
+      "title": "Adding Users to the Application",
+      "description": "Enabling users to access your application is a fundamental step in healthcare app development. The User Management module in App Panel streamlines this process, allowing administrators and developers to efficiently onboard new users with appropriate roles and permissions. Here's a step-by-step guide on how to add users:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-management/assigning-policies-to-users": {
+      "id": "documentation/user-management/assigning-policies-to-users",
+      "title": "Assigning Policies to Users",
+      "description": "Granting specific permissions to users through policies is a valuable feature in the User Management system of App Panel. This capability enables administrators and developers to provide customized access and permissions at a user level, allowing for precise control based on individual needs. Here's a step-by-step guide on how to assign policies to users:"
+    },
+    "documentation/user-management/overview": {
+      "id": "documentation/user-management/overview",
+      "title": "User Management",
+      "description": "User Management is a critical aspect of overseeing the application's user base within the Zelthy platform. This module empowers administrators and developers to efficiently manage users' access and permissions while ensuring a secure and organized environment. Here's an overview of the key functionalities provided by the User Management system:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-management/updating-user-roles": {
+      "id": "documentation/user-management/updating-user-roles",
+      "title": "Updating User Roles for a User",
+      "description": "Updating the user roles assigned to a user can be pivotal in aligning their access and permissions with their evolving responsibilities. In the App Panel User Management system, you have the flexibility to modify user roles for users, allowing for refined access control. Here's a step-by-step guide on how to change user roles for a user:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-management/viewing-users": {
+      "id": "documentation/user-management/viewing-users",
+      "title": "Viewing Users in the Application",
+      "description": "Viewing and understanding the user landscape is a key aspect of effective user management. The User Management module in App Panel provides a user-friendly interface to explore and comprehend the users within your application. Here's a guide on how to view users:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-roles/assigning-policies-to-user-roles": {
+      "id": "documentation/user-roles/assigning-policies-to-user-roles",
+      "title": "Assigning Policies to User Roles",
+      "description": "Assigning policies to user roles in the Zelthy platform allows you to precisely define the permissions and access levels associated with each role. Here's how you can assign policies to a user role:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-roles/creating-a-user-role": {
+      "id": "documentation/user-roles/creating-a-user-role",
+      "title": "Creating a User Role",
+      "description": "To establish distinct access privileges and responsibilities for different users, you can create customized user roles within the Zelthy platform. Follow these simple steps to create a new user role:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-roles/deactivating-a-user-role": {
+      "id": "documentation/user-roles/deactivating-a-user-role",
+      "title": "Deactivating a User Role",
+      "description": "Deactivating a user role in the Zelthy platform helps you manage user access and ensure compliance with changing organizational requirements. Follow these steps to deactivate a user role:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-roles/overview": {
+      "id": "documentation/user-roles/overview",
+      "title": "User Roles",
+      "description": "User roles are an integral part of the Zelthy healthcare app development platform, offering a structured approach to defining user access and permissions. With user roles, you can efficiently manage how individuals interact with the healthcare apps built on this platform. An app can accommodate any number of user roles, each with its own set of responsibilities and privileges.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/user-roles/reserved-user-roles": {
+      "id": "documentation/user-roles/reserved-user-roles",
+      "title": "Reserved User Roles",
+      "description": "Within the Zelthy application, two reserved user roles serve specific purposes to facilitate a well-structured access control framework:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/views-and-routes/assigning-route-to-a-view": {
+      "id": "documentation/views-and-routes/assigning-route-to-a-view",
+      "title": "Assigning Route to a View",
+      "description": "In Zelthy, routing is essential for directing incoming HTTP requests to the appropriate view functions. Routing is typically managed using URL patterns defined in the urls.py file within your module. Below, we'll outline the steps to assign a route to a view in Zelthy:",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/views-and-routes/creating-a-view": {
+      "id": "documentation/views-and-routes/creating-a-view",
+      "title": "Creating a View",
+      "description": "In Zelthy, creating views is akin to the process you'd follow in Django, the popular Python web framework. Views define how your application responds to HTTP requests and are fundamental to handling user interactions and displaying content. Whether you're creating an API view or a template view, the basic principles remain the same.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/views-and-routes/overview": {
+      "id": "documentation/views-and-routes/overview",
+      "title": "Views and Routes",
+      "description": "In Zelthy, the concepts of Views and Routes closely align with the principles you'd find in Django, a popular Python web framework. These two components are fundamental in defining how your healthcare app responds to incoming requests and how it presents information to users.",
+      "sidebar": "docsSidebar"
+    },
+    "documentation/views-and-routes/types-of-views": {
+      "id": "documentation/views-and-routes/types-of-views",
+      "title": "Types of Views in Zelthy",
+      "description": "In Zelthy, views play a pivotal role in defining how your healthcare app interacts with users and processes data. These views can be broadly categorized into two main types: API Views and Template Views. Let's delve into these categories and explore their various subtypes."
+    },
+    "tutorials/complex-app/overview": {
+      "id": "tutorials/complex-app/overview",
+      "title": "How to create a complex app",
+      "description": ""
+    },
+    "tutorials/todo-app/overview": {
+      "id": "tutorials/todo-app/overview",
+      "title": "How to create a simple Todo app",
+      "description": ""
+    }
+  }
+}

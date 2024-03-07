@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/user-management/updating-user-roles",
+  "id": "documentation/user-management/updating-user-roles",
+  "title": "Updating User Roles for a User",
+  "description": "Updating the user roles assigned to a user can be pivotal in aligning their access and permissions with their evolving responsibilities. In the App Panel User Management system, you have the flexibility to modify user roles for users, allowing for refined access control. Here's a step-by-step guide on how to change user roles for a user:",
+  "source": "@site/docs/documentation/user-management/updating-user-roles.mdx",
+  "sourceDirName": "documentation/user-management",
+  "slug": "/documentation/user-management/updating-user-roles",
+  "permalink": "/docs/docs/documentation/user-management/updating-user-roles",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/user-management/updating-user-roles.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Updating User Roles"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Adding Users",
+    "permalink": "/docs/docs/documentation/user-management/adding-users"
+  },
+  "next": {
+    "title": "Permission Framework",
+    "permalink": "/docs/docs/documentation/permission-framework/overview"
+  }
+}

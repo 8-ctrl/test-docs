@@ -1,0 +1,15 @@
+{
+  "unversionedId": "documentation/deployment/overview",
+  "id": "documentation/deployment/overview",
+  "title": "Deployment",
+  "description": "How to Deploy the apps?",
+  "source": "@site/docs/documentation/deployment/overview.mdx",
+  "sourceDirName": "documentation/deployment",
+  "slug": "/documentation/deployment/overview",
+  "permalink": "/docs/docs/documentation/deployment/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/deployment/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

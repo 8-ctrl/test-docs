@@ -1,0 +1,341 @@
+{
+  "@cmfcmf/docusaurus-search-local": {
+    "default": {
+      "titleBoost": 5,
+      "contentBoost": 1,
+      "tagsBoost": 3,
+      "parentCategoriesBoost": 2,
+      "indexDocSidebarParentCategories": 0,
+      "maxSearchResults": 8
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs/docs",
+          "mainDocId": "documentation/introduction",
+          "docs": [
+            {
+              "id": "documentation/async-tasks/creating-an-async-task",
+              "path": "/docs/docs/documentation/async-tasks/creating-an-async-task",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/async-tasks/manually-triggering-async-tasks",
+              "path": "/docs/docs/documentation/async-tasks/manually-triggering-async-tasks",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/async-tasks/overview",
+              "path": "/docs/docs/documentation/async-tasks/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/async-tasks/scheduling-async-tasks",
+              "path": "/docs/docs/documentation/async-tasks/scheduling-async-tasks",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/async-tasks/syncing-and-viewing-async-tasks",
+              "path": "/docs/docs/documentation/async-tasks/syncing-and-viewing-async-tasks",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/ddms/creating-a-ddm",
+              "path": "/docs/docs/documentation/ddms/creating-a-ddm",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/ddms/ddm-field-types",
+              "path": "/docs/docs/documentation/ddms/ddm-field-types",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/ddms/migrating-ddms",
+              "path": "/docs/docs/documentation/ddms/migrating-ddms",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/ddms/overview",
+              "path": "/docs/docs/documentation/ddms/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/deployment/overview",
+              "path": "/docs/docs/documentation/deployment/overview"
+            },
+            {
+              "id": "documentation/development-of-app/overview",
+              "path": "/docs/docs/documentation/development-of-app/overview"
+            },
+            {
+              "id": "documentation/events/overview",
+              "path": "/docs/docs/documentation/events/overview"
+            },
+            {
+              "id": "documentation/getting-started/accessing-app-panel",
+              "path": "/docs/docs/documentation/getting-started/accessing-app-panel",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/getting-started/installing-zelthy/docker",
+              "path": "/docs/docs/documentation/getting-started/installing-zelthy/docker",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/getting-started/installing-zelthy/manual",
+              "path": "/docs/docs/documentation/getting-started/installing-zelthy/manual",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/introduction",
+              "path": "/docs/docs/documentation/introduction",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/modules/creating-a-module",
+              "path": "/docs/docs/documentation/modules/creating-a-module",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/modules/development/hello-world-example",
+              "path": "/docs/docs/documentation/modules/development/hello-world-example"
+            },
+            {
+              "id": "documentation/modules/development/models",
+              "path": "/docs/docs/documentation/modules/development/models"
+            },
+            {
+              "id": "documentation/modules/development/overview",
+              "path": "/docs/docs/documentation/modules/development/overview"
+            },
+            {
+              "id": "documentation/modules/overview",
+              "path": "/docs/docs/documentation/modules/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/modules/registering-a-module",
+              "path": "/docs/docs/documentation/modules/registering-a-module",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/packages/installing-a-package",
+              "path": "/docs/docs/documentation/packages/installing-a-package",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/packages/overview",
+              "path": "/docs/docs/documentation/packages/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/permission-framework/overview",
+              "path": "/docs/docs/documentation/permission-framework/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/permission-framework/permissions/creating-permissions",
+              "path": "/docs/docs/documentation/permission-framework/permissions/creating-permissions"
+            },
+            {
+              "id": "documentation/permission-framework/permissions/custom-permissions",
+              "path": "/docs/docs/documentation/permission-framework/permissions/custom-permissions"
+            },
+            {
+              "id": "documentation/permission-framework/permissions/overview",
+              "path": "/docs/docs/documentation/permission-framework/permissions/overview"
+            },
+            {
+              "id": "documentation/permission-framework/permissions/syncing-and-viewing-permissions",
+              "path": "/docs/docs/documentation/permission-framework/permissions/syncing-and-viewing-permissions"
+            },
+            {
+              "id": "documentation/permission-framework/permissions/using-permissions",
+              "path": "/docs/docs/documentation/permission-framework/permissions/using-permissions"
+            },
+            {
+              "id": "documentation/permission-framework/policies/archiving-a-policy",
+              "path": "/docs/docs/documentation/permission-framework/policies/archiving-a-policy"
+            },
+            {
+              "id": "documentation/permission-framework/policies/assigning-policies",
+              "path": "/docs/docs/documentation/permission-framework/policies/assigning-policies",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/permission-framework/policies/creating-a-policy",
+              "path": "/docs/docs/documentation/permission-framework/policies/creating-a-policy",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/permission-framework/policies/editing-policy-config",
+              "path": "/docs/docs/documentation/permission-framework/policies/editing-policy-config",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/permission-framework/policies/overview",
+              "path": "/docs/docs/documentation/permission-framework/policies/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/permission-framework/policies/policy-config-json",
+              "path": "/docs/docs/documentation/permission-framework/policies/policy-config-json",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/permission-framework/policies/viewing-policies",
+              "path": "/docs/docs/documentation/permission-framework/policies/viewing-policies",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/platform-architecture",
+              "path": "/docs/docs/documentation/platform-architecture",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/spinning-up-an-app/intializing-app-codebase",
+              "path": "/docs/docs/documentation/spinning-up-an-app/intializing-app-codebase",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/spinning-up-an-app/launch-the-app",
+              "path": "/docs/docs/documentation/spinning-up-an-app/launch-the-app",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/spinning-up-an-app/switching-to-app-view",
+              "path": "/docs/docs/documentation/spinning-up-an-app/switching-to-app-view",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/spinning-up-an-app/updating-app-settings",
+              "path": "/docs/docs/documentation/spinning-up-an-app/updating-app-settings",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/spinning-up-an-app/updating-app-theme",
+              "path": "/docs/docs/documentation/spinning-up-an-app/updating-app-theme",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/static-and-media/overview",
+              "path": "/docs/docs/documentation/static-and-media/overview"
+            },
+            {
+              "id": "documentation/templates/overview",
+              "path": "/docs/docs/documentation/templates/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-management/adding-users",
+              "path": "/docs/docs/documentation/user-management/adding-users",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-management/assigning-policies-to-users",
+              "path": "/docs/docs/documentation/user-management/assigning-policies-to-users"
+            },
+            {
+              "id": "documentation/user-management/overview",
+              "path": "/docs/docs/documentation/user-management/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-management/updating-user-roles",
+              "path": "/docs/docs/documentation/user-management/updating-user-roles",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-management/viewing-users",
+              "path": "/docs/docs/documentation/user-management/viewing-users",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-roles/assigning-policies-to-user-roles",
+              "path": "/docs/docs/documentation/user-roles/assigning-policies-to-user-roles",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-roles/creating-a-user-role",
+              "path": "/docs/docs/documentation/user-roles/creating-a-user-role",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-roles/deactivating-a-user-role",
+              "path": "/docs/docs/documentation/user-roles/deactivating-a-user-role",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-roles/overview",
+              "path": "/docs/docs/documentation/user-roles/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/user-roles/reserved-user-roles",
+              "path": "/docs/docs/documentation/user-roles/reserved-user-roles",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/views-and-routes/assigning-route-to-a-view",
+              "path": "/docs/docs/documentation/views-and-routes/assigning-route-to-a-view",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/views-and-routes/creating-a-view",
+              "path": "/docs/docs/documentation/views-and-routes/creating-a-view",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/views-and-routes/overview",
+              "path": "/docs/docs/documentation/views-and-routes/overview",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "documentation/views-and-routes/types-of-views",
+              "path": "/docs/docs/documentation/views-and-routes/types-of-views"
+            },
+            {
+              "id": "tutorials/complex-app/overview",
+              "path": "/docs/docs/tutorials/complex-app/overview"
+            },
+            {
+              "id": "tutorials/todo-app/overview",
+              "path": "/docs/docs/tutorials/todo-app/overview"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/docs/category/getting-started",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/building-your-first-app",
+              "path": "/docs/docs/category/building-your-first-app",
+              "sidebar": "docsSidebar"
+            },
+            {
+              "id": "/category/development-workflow",
+              "path": "/docs/docs/category/development-workflow",
+              "sidebar": "docsSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docsSidebar": {
+              "link": {
+                "path": "/docs/docs/documentation/introduction",
+                "label": "documentation/introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/ddms/migrating-ddms",
+  "id": "documentation/ddms/migrating-ddms",
+  "title": "Migrating Model",
+  "description": "Migrating Models in Zelthy is a straightforward process that allows you to apply changes made to your model definitions. This ensures that your data structure remains up-to-date and aligned with your evolving application requirements.",
+  "source": "@site/docs/documentation/ddms/migrating-ddms.mdx",
+  "sourceDirName": "documentation/ddms",
+  "slug": "/documentation/ddms/migrating-ddms",
+  "permalink": "/docs/docs/documentation/ddms/migrating-ddms",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/ddms/migrating-ddms.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Migrating Model"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Field Types",
+    "permalink": "/docs/docs/documentation/ddms/ddm-field-types"
+  },
+  "next": {
+    "title": "Async Tasks",
+    "permalink": "/docs/docs/documentation/async-tasks/overview"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "unversionedId": "documentation/permission-framework/permissions/syncing-and-viewing-permissions",
+  "id": "documentation/permission-framework/permissions/syncing-and-viewing-permissions",
+  "title": "Syncing and Viewing Permissions",
+  "description": "Ensuring the visibility and accuracy of permissions is vital within the Zelthy platform. Permissions are automatically created to regulate access, but to make them visible in App Panel, a syncing process is required. Here's how you can view permissions and synchronize them to reflect the latest codebase changes:",
+  "source": "@site/docs/documentation/permission-framework/permissions/syncing-and-viewing-permissions.mdx",
+  "sourceDirName": "documentation/permission-framework/permissions",
+  "slug": "/documentation/permission-framework/permissions/syncing-and-viewing-permissions",
+  "permalink": "/docs/docs/documentation/permission-framework/permissions/syncing-and-viewing-permissions",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/permission-framework/permissions/syncing-and-viewing-permissions.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Syncing and Viewing Permissions"
+  }
+}

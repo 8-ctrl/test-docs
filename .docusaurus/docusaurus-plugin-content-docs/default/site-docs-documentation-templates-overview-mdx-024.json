@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/templates/overview",
+  "id": "documentation/templates/overview",
+  "title": "Templates",
+  "description": "Templates in Zelthy serve the same purpose as they do in Django or other web frameworks. They provide a way to separate the design or presentation layer from the business logic of your application. In Zelthy, you can use templates to generate HTML dynamically based on data and user interactions. Here's what you need to know about working with templates in Zelthy:",
+  "source": "@site/docs/documentation/templates/overview.mdx",
+  "sourceDirName": "documentation/templates",
+  "slug": "/documentation/templates/overview",
+  "permalink": "/docs/docs/documentation/templates/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/templates/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Assigning Route to a View",
+    "permalink": "/docs/docs/documentation/views-and-routes/assigning-route-to-a-view"
+  },
+  "next": {
+    "title": "Models",
+    "permalink": "/docs/docs/documentation/ddms/overview"
+  }
+}

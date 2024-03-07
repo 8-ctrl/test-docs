@@ -1,0 +1,22 @@
+{
+  "unversionedId": "documentation/async-tasks/scheduling-async-tasks",
+  "id": "documentation/async-tasks/scheduling-async-tasks",
+  "title": "Scheduling Async Tasks",
+  "description": "- Navigate to the Tasks Menu:",
+  "source": "@site/docs/documentation/async-tasks/scheduling-async-tasks.mdx",
+  "sourceDirName": "documentation/async-tasks",
+  "slug": "/documentation/async-tasks/scheduling-async-tasks",
+  "permalink": "/docs/docs/documentation/async-tasks/scheduling-async-tasks",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/async-tasks/scheduling-async-tasks.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Scheduling Async Tasks"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Manually Triggering Async Tasks",
+    "permalink": "/docs/docs/documentation/async-tasks/manually-triggering-async-tasks"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "documentation/static-and-media/overview",
+  "id": "documentation/static-and-media/overview",
+  "title": "Static and Media",
+  "description": "What is Static?",
+  "source": "@site/docs/documentation/static-and-media/overview.mdx",
+  "sourceDirName": "documentation/static-and-media",
+  "slug": "/documentation/static-and-media/overview",
+  "permalink": "/docs/docs/documentation/static-and-media/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/static-and-media/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

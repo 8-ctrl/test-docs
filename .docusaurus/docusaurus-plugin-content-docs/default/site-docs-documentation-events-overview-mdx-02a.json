@@ -1,0 +1,15 @@
+{
+  "unversionedId": "documentation/events/overview",
+  "id": "documentation/events/overview",
+  "title": "Events",
+  "description": "What is an Event?",
+  "source": "@site/docs/documentation/events/overview.mdx",
+  "sourceDirName": "documentation/events",
+  "slug": "/documentation/events/overview",
+  "permalink": "/docs/docs/documentation/events/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/events/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

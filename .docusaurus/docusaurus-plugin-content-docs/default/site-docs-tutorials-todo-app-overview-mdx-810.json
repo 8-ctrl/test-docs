@@ -1,0 +1,15 @@
+{
+  "unversionedId": "tutorials/todo-app/overview",
+  "id": "tutorials/todo-app/overview",
+  "title": "How to create a simple Todo app",
+  "description": "",
+  "source": "@site/docs/tutorials/todo-app/overview.mdx",
+  "sourceDirName": "tutorials/todo-app",
+  "slug": "/tutorials/todo-app/overview",
+  "permalink": "/docs/docs/tutorials/todo-app/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/tutorials/todo-app/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

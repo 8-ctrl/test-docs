@@ -1,0 +1,24 @@
+{
+  "unversionedId": "documentation/modules/overview",
+  "id": "documentation/modules/overview",
+  "title": "Modules",
+  "description": "In the context of the Zelthy healthcare app development platform, modules play a pivotal role in organizing and structuring your application for improved organization, maintainability, and understanding. Let's delve into the key aspects of modules.",
+  "source": "@site/docs/documentation/modules/overview.mdx",
+  "sourceDirName": "documentation/modules",
+  "slug": "/documentation/modules/overview",
+  "permalink": "/docs/docs/documentation/modules/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/modules/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Development Workflow",
+    "permalink": "/docs/docs/category/development-workflow"
+  },
+  "next": {
+    "title": "Creating a Module",
+    "permalink": "/docs/docs/documentation/modules/creating-a-module"
+  }
+}

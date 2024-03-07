@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/async-tasks/syncing-and-viewing-async-tasks",
+  "id": "documentation/async-tasks/syncing-and-viewing-async-tasks",
+  "title": "Syncing and Viewing Async Tasks",
+  "description": "In Zelthy, asynchronous tasks can be managed through the Async Tasks page in the App Panel. This page allows users to view, synchronize, and manage all asynchronous tasks defined within the application.",
+  "source": "@site/docs/documentation/async-tasks/syncing-and-viewing-async-tasks.mdx",
+  "sourceDirName": "documentation/async-tasks",
+  "slug": "/documentation/async-tasks/syncing-and-viewing-async-tasks",
+  "permalink": "/docs/docs/documentation/async-tasks/syncing-and-viewing-async-tasks",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/async-tasks/syncing-and-viewing-async-tasks.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Syncing and Viewing Async Task"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Creating an Async Task",
+    "permalink": "/docs/docs/documentation/async-tasks/creating-an-async-task"
+  },
+  "next": {
+    "title": "Manually Triggering Async Tasks",
+    "permalink": "/docs/docs/documentation/async-tasks/manually-triggering-async-tasks"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/packages/overview",
+  "id": "documentation/packages/overview",
+  "title": "Packages",
+  "description": "Zelthy Packages are a collection of reusable components designed to enhance and extend the functionality of your Zelthy applications. Similar to Python packages, Zelthy Packages provide a convenient way to modularize and share components across different applications on the Zelthy platform. This overview document will guide you through the key concepts and steps involved in working with Zelthy Packages.",
+  "source": "@site/docs/documentation/packages/overview.mdx",
+  "sourceDirName": "documentation/packages",
+  "slug": "/documentation/packages/overview",
+  "permalink": "/docs/docs/documentation/packages/overview",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/packages/overview.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Overview"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Editing Policy Config",
+    "permalink": "/docs/docs/documentation/permission-framework/policies/editing-policy-config"
+  },
+  "next": {
+    "title": "Installing a Package",
+    "permalink": "/docs/docs/documentation/packages/installing-a-package"
+  }
+}

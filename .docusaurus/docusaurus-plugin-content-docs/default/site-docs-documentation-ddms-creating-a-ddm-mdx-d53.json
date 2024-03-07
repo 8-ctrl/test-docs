@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/ddms/creating-a-ddm",
+  "id": "documentation/ddms/creating-a-ddm",
+  "title": "Creating a Model",
+  "description": "Models in Zelthy are a powerful way to define custom data structures tailored to the unique needs of individual tenants in a multi-tenant application. Defining a Model class in Zelthy is quite similar to creating a model class in Django, with a few distinctions.",
+  "source": "@site/docs/documentation/ddms/creating-a-ddm.mdx",
+  "sourceDirName": "documentation/ddms",
+  "slug": "/documentation/ddms/creating-a-ddm",
+  "permalink": "/docs/docs/documentation/ddms/creating-a-ddm",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/ddms/creating-a-ddm.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Creating a Model"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Models",
+    "permalink": "/docs/docs/documentation/ddms/overview"
+  },
+  "next": {
+    "title": "Field Types",
+    "permalink": "/docs/docs/documentation/ddms/ddm-field-types"
+  }
+}

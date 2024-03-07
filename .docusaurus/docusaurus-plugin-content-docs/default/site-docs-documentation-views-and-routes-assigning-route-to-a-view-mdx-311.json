@@ -1,0 +1,26 @@
+{
+  "unversionedId": "documentation/views-and-routes/assigning-route-to-a-view",
+  "id": "documentation/views-and-routes/assigning-route-to-a-view",
+  "title": "Assigning Route to a View",
+  "description": "In Zelthy, routing is essential for directing incoming HTTP requests to the appropriate view functions. Routing is typically managed using URL patterns defined in the urls.py file within your module. Below, we'll outline the steps to assign a route to a view in Zelthy:",
+  "source": "@site/docs/documentation/views-and-routes/assigning-route-to-a-view.mdx",
+  "sourceDirName": "documentation/views-and-routes",
+  "slug": "/documentation/views-and-routes/assigning-route-to-a-view",
+  "permalink": "/docs/docs/documentation/views-and-routes/assigning-route-to-a-view",
+  "draft": false,
+  "editUrl": "https://github.com/Healthlane-Technologies/zelthy3/tree/documentation/docs/docs/documentation/views-and-routes/assigning-route-to-a-view.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "sidebar_label": "Assigning Route to a View"
+  },
+  "sidebar": "docsSidebar",
+  "previous": {
+    "title": "Creating a View",
+    "permalink": "/docs/docs/documentation/views-and-routes/creating-a-view"
+  },
+  "next": {
+    "title": "Templates",
+    "permalink": "/docs/docs/documentation/templates/overview"
+  }
+}
